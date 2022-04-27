@@ -1,0 +1,25 @@
+{
+    "main_config": {
+        "prefix": ".",
+        "colorhex": "#00FFFF",
+        "servername": "Speedbot",
+        "serverid": "840565062455787531",
+        "copyright":"Balls",
+        "voicechannel": "840565062455787531"
+    },
+
+    "ticket_config": {
+        "enabled": true,
+        "ticketchannel": "840565556742586368",
+        "ticketcategory": "840565551541387274",
+        "ticketarchivecategory": "840565554120228875",
+        "newticketmessage": "Hi thx for ticket creating",
+        "ticketbuttonemoji": "🎫",
+        "ticketbuttoncolor": "SECONDARY",
+        "ticketimage": "https://tenor.com/view/do-not-use-transphobic-sexist-homophobic-blue-haired-talking-gif-17892624"
+    },
+
+    "permissions_config": {
+        "ticketmanagers": "840565534135156736"
+    }
+}
